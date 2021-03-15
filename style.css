@@ -1,12 +1,24 @@
 :root {
     --page-1-color: pink;
-    --page-2-color: LightCoral;
-    --page-3-color: LightCoral;
-    --page-4-color: LightCoral;
-    --page-5-color: LightCoral;
-    --page-6-color: LightCoral;
-    --page-7-color: LightCoral;
-    --page-8-color: LightCoral;
+    --page-2-color: pink;
+    --page-3-color: pink;
+    --page-4-color: pink;
+    --page-5-color: pink;
+    --page-6-color: pink;
+    --page-7-color: pink;
+    --page-8-color: pink;
+    --page-9-color: pink;
+    --page-10-color: pink;
+    --page-11-color: pink;
+    --page-12-color: pink;
+    --page-13-color: pink;
+    --page-14-color: pink;
+    --page-15-color: pink;
+    --page-16-color: pink;
+    --page-17-color: pink;
+    --page-18-color: pink;
+    --page-19-color: pink;
+    --page-20-color: pink;  
     --animate-speed: 2s;
 }
 
